@@ -13,7 +13,7 @@ def check_prime(n):
       else:
         print(f"check_prime({n}) =  {n} is not prime")
 
-#input nilai, bisa lebih dari satu
+#input nilai
 arr_value = [0,1,2,3,4,5,6,9,10,6]
 
 for n in arr_value:
