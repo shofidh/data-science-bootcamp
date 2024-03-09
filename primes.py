@@ -1,5 +1,6 @@
 def check_prime(n):
-    if n < 2 :
+    #syarat bilangan prima kurang dari satu
+    if n < 1 :
       print(f"check_prime({n}) = Please input positive integer and more than 1 !")
     else :
       prime = True
