@@ -1,13 +1,12 @@
 Data Science Bootcamp Project Repository
 
-This repository contains hands-on exercises and projects from my Data Science Bootcamp.
+This repository contains my projects from Dibimbing Data Science Bootcamp.
 Explore practical data analysis and visualization techniques with dummy datasets. 
 Enhance your skills and gain valuable insights into the field of data science.
 
 🚀 Key Features:
 - Hands-on projects with step-by-step instructions.
-- Real-world datasets for practical analysis.
-- Learn and apply machine learning algorithms.
+- Dummy datasets for practical analysis.
 - Improve data visualization skills.
 
 📚 How to Use:
